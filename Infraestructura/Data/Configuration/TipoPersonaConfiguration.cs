@@ -10,7 +10,6 @@ namespace Persistencia.Data.Configuration
         {
             builder.ToTable("tipoPersona");
 
-
         }
     }
 }
