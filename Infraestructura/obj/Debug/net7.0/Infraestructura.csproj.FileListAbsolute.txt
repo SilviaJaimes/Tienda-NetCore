@@ -1,0 +1,15 @@
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/bin/Debug/net7.0/Infraestructura.deps.json
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/bin/Debug/net7.0/Infraestructura.dll
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/bin/Debug/net7.0/Infraestructura.pdb
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/bin/Debug/net7.0/Core.dll
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/bin/Debug/net7.0/Core.pdb
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.csproj.AssemblyReference.cache
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.GeneratedMSBuildEditorConfig.editorconfig
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.AssemblyInfoInputs.cache
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.AssemblyInfo.cs
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.csproj.CoreCompileInputs.cache
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.csproj.CopyComplete
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.dll
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/refint/Infraestructura.dll
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/Infraestructura.pdb
+/home/apolT01-040/ProyectosNetCore/Tienda/Infraestructura/obj/Debug/net7.0/ref/Infraestructura.dll
