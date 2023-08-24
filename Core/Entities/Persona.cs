@@ -1,7 +1,6 @@
 namespace Core.Entities;
-public class Persona
+public class Persona : BaseEntity
 {
-    public int Id { get; set; }
     public string Cedula { get; set; }
     public string NombrePersona { get; set; }
     public DateOnly FechaNacimiento { get; set; }

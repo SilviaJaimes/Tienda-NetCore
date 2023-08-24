@@ -1,7 +1,6 @@
 namespace Core.Entities;
-public class Estado
+public class Estado : BaseEntity
 {
-    public int Id { get; set; }
     public string NombreEstado { get; set; }
     public int IdPaisFk { get; set; }
     public Pais Pais { get; set; }

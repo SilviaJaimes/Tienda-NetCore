@@ -13,10 +13,6 @@ namespace Persistencia.Data.Configuration
 
             builder.HasKey(p => p.IdTPersona);
 
-            builder.Property(P => P.IdTPersona)
-            .HasAnnotation("MySql:ValueGenerationStrategy", MySqlValueGenerationStrategy.IdentityColumn)
-            .HasMaxLength(3);
-
             builder.Property(tp => tp.Descripcion)
             .IsRequired()
             .HasMaxLength(50);

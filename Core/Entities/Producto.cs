@@ -1,7 +1,6 @@
 namespace Core.Entities;
-public class Producto
+public class Producto  : BaseEntity
 {
-    public int Id { get; set; }
     public string CodInterno { get; set; }
     public string NombreProducto { get; set; }
     public int StockMin { get; set; }
