@@ -1,10 +1,9 @@
 using Core.Entities;
 using Core.Interfaces;
 using Infraestructura.Data;
-using Infraestructura.Repository;
 using Microsoft.EntityFrameworkCore;
 
-namespace Infraestructura.RepositoryM;
+namespace Infraestructura.Repository;
 public class PaisRepository : GenericRepository<Pais>, IPais
 {
     private readonly APITiendaContext _context;
