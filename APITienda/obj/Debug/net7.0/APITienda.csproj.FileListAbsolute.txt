@@ -92,3 +92,5 @@ C:\Users\APT01-40\Tienda-NetCore-1\APITienda\obj\Debug\net7.0\refint\APITienda.d
 C:\Users\APT01-40\Tienda-NetCore-1\APITienda\obj\Debug\net7.0\APITienda.pdb
 C:\Users\APT01-40\Tienda-NetCore-1\APITienda\obj\Debug\net7.0\APITienda.genruntimeconfig.cache
 C:\Users\APT01-40\Tienda-NetCore-1\APITienda\obj\Debug\net7.0\ref\APITienda.dll
+C:\Users\APT01-40\Tienda-NetCore-1\APITienda\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\APT01-40\Tienda-NetCore-1\APITienda\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

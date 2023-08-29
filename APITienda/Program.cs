@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Infraestructura.Data;
 using APITienda.Extensions;
+using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.ConfigureCors();
 builder.Services.AddControllers();
 builder.Services.AddApplicationServices();
+builder.Services.AddAutoMapper(Assembly.GetEntryAssembly());
 
 builder.Services.AddDbContext<APITiendaContext>(optionsBuilder =>
 {
